@@ -60,7 +60,6 @@ if ($httpCode === 200) {
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>请使用支付宝付款 - BaiPay支付</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- 引入 jQuery 库 -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <style type="text/css">
         body {
