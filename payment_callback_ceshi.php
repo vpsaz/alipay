@@ -5,6 +5,7 @@ ini_set('display_errors', 1);
 
 // 敏感信息，建议从配置文件或环境变量获取
 $checkApiKey = '4394e5376aa28b696b717f7aa9a95834';
+// 授权的QQ
 $qq = 8242718;
 // 支付平台 IP 白名单，可根据实际情况添加
 $allowedIPs = [
