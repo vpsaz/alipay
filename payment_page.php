@@ -261,7 +261,6 @@ if ($httpCode === 200) {
         // 页面加载完成后开始支付状态检查
         window.addEventListener('load', startPaymentCheck);
 
-        // 使用 jQuery 实现展开/收起动画
         $(document).ready(function() {
             $('#toggleDetail').click(function() {
                 $('#desc').slideToggle(500);
